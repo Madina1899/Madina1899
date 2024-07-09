@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there 👋 I'm Madina 
+==========================
+### I am a creative Web Developer, I enjoy both the Web Design aspect as well as the Front-End Development. I relish creating websites and delving into the finer details to make them smooth and sleek. 
 
-<!--
-**Madina1899/Madina1899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🦋🦋🦋 About Me! 
+=======================
+#### Versatile professional with experience in the IT, education and business sector, with a foundation in HTML, CSS, and JavaScript. Enthusiastic about creating responsive and user-friendly websites, possessing hands on knowledge in contemporary web development strategies. Competent capacity to quickly learn and use new technologies; prepared to add value to creative development teams.
 
-Here are some ideas to get you started:
+### 🧰 Skill Set 👩🏽‍💻👩🏽‍💻👩🏽‍💻
+=========================
+#### HTML5| CSS3| JavaScript| Web Design| Web Front-End Development 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###✨✨✨ Featured Projects
+========================
+#### I've just completed my first website project, and I'm excited for many more to come!
+
+### 📩📩 How to Reach Me!
+#### [LinkedIn](https://www.linkedin.com/in/madinaahmed1/)
+
