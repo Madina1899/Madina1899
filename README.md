@@ -1,6 +1,6 @@
-## Hi there 👋 I'm Madina 
+## Hi there 👋 I'm Madina ALT-H1
 
-#### I am a creative Web Developer, I enjoy both the Web Design aspect as well as the Front-End Development. I relish creating websites and delving into the finer details to make them smooth and sleek. 
+##### I am a creative Web Developer, I enjoy both the Web Design aspect as well as the Front-End Development. I relish creating websites and delving into the finer details to make them smooth and sleek. 
 
 ### 🦋🦋🦋 About Me! 
 
