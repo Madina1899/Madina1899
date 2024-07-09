@@ -8,7 +8,7 @@
 
 ## <u>🧰 Skill Set 👩🏽‍💻👩🏽‍💻👩🏽‍💻</u>
 
-##### HTML5| CSS3| JavaScript| Web Design| Web Front-End Development 
+##### HTML5| CSS3| JavaScript| Web Design| Web Front-End Development |Agile| Github| UI/UX Design|
 
 ## ✨✨✨ <u>Featured Projects</u>
 
